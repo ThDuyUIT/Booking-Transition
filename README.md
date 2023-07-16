@@ -28,4 +28,4 @@ Admin:
 + Tạo thống kê (tháng)
   
 # 5-Sơ đồ CSDL
-![Alt Text](https://drive.google.com/file/d/127xznv1h7zKhaWU1lsL3gghVGtnYxylE/view?usp=drive_link)
+![Database](https://drive.google.com/file/d/127xznv1h7zKhaWU1lsL3gghVGtnYxylE/view?usp=drive_link)
