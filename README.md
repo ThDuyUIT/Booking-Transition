@@ -26,6 +26,6 @@ Admin:
 + CRUD chuyến xe
 + CRUD xe
 + Tạo thống kê (tháng)
-
-# 5-Sequence diagram (chức năng đặt vé)
-# 6-Sơ đồ CSDL
+  
+# 5-Sơ đồ CSDL
+![Alt Text](https://drive.google.com/file/d/127xznv1h7zKhaWU1lsL3gghVGtnYxylE/view?usp=drive_link)
