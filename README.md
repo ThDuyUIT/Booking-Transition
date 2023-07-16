@@ -29,3 +29,12 @@ Admin:
   
 # 5-Sơ đồ CSDL
 ![Database](https://drive.google.com/uc?export=view&id=127xznv1h7zKhaWU1lsL3gghVGtnYxylE)
+
+# 6-Giao diện:
+
+# 7-Các thông số thiết lập cài đặt:
++ compileSdkVersion 32
++ buildToolsVersion '32.0.0'
++ minSdkVersion 21
++ targetSdkVersion 32'
++ JavaVersion.VERSION_1_8
