@@ -30,10 +30,9 @@ Admin:
 # 5-Sơ đồ CSDL
 ![Database](https://drive.google.com/uc?export=view&id=127xznv1h7zKhaWU1lsL3gghVGtnYxylE)
 
-# 6-Giao diện:
-![Database](https://drive.google.com/uc?export=view&id=1lZrWn7657FJ40mkSTBBUxLkJDdojPEkh)
-![Database](https://drive.google.com/uc?export=view&id=1pYzmLyUjW3rpmYKoplzklgwwnKBVbP0J)
-![Database](https://drive.google.com/uc?export=view&id=1ceWitOpB4dm87vVB51s7Bu3YkMxNqKO5)
+# 6-Một số giao diện chính:
+https://www.figma.com/file/ukXJJb55OPiLxp5snT2SBp/Interface-booking-transition?type=design&node-id=0%3A1&mode=design&t=RZQYmJWdTTfTMSYr-1
+
 
 # 7-Các thông số thiết lập cài đặt:
 + compileSdkVersion 32
