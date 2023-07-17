@@ -31,6 +31,9 @@ Admin:
 ![Database](https://drive.google.com/uc?export=view&id=127xznv1h7zKhaWU1lsL3gghVGtnYxylE)
 
 # 6-Giao diện:
+![Database](https://drive.google.com/uc?export=view&id=1lZrWn7657FJ40mkSTBBUxLkJDdojPEkh)
+![Database](https://drive.google.com/uc?export=view&id=1pYzmLyUjW3rpmYKoplzklgwwnKBVbP0J)
+![Database](https://drive.google.com/uc?export=view&id=1ceWitOpB4dm87vVB51s7Bu3YkMxNqKO5)
 
 # 7-Các thông số thiết lập cài đặt:
 + compileSdkVersion 32
